@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**Rafael-nas/Rafael-nas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou o Rafael 👋
 
-Here are some ideas to get you started:
+💻 Desenvolvedor Full Stack em formação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudante de Ciência da Computação na SPTech
+
+☁️ Certificações:
+- Azure Fundamentals (AZ-900)
+- Azure AI Fundamentals (AI-900)
+
+🚀 Tecnologias
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+📚 Atualmente estudando
+- Arquitetura de Software
+- Cloud Computing
+- Inteligência Artificial
+
+📫 Contato
+- LinkedIn: seu-linkedin
