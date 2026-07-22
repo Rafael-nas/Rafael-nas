@@ -141,28 +141,6 @@ Laboratórios e projetos focados em:
 
 ---
 
-# 📈 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafael-nas&theme=github_dark" />
-
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafael-nas&theme=github_dark" />
-
-</div>
-
----
-
-# 🔥 Streak de Contribuições
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Rafael-nas&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 # 📌 Tecnologias Dominadas
 
 <div align="center">
