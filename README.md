@@ -167,12 +167,12 @@ Laboratórios e projetos focados em:
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-Expert-success?style=flat-square)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Advanced-success?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-Advanced-success?style=flat-square)
+![Java](https://img.shields.io/badge/Java-Advanced-success?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Intermediate-blue?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate%2FBeginner-yellow?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-success?style=flat-square)
-![Azure](https://img.shields.io/badge/Azure-Intermediate-blue?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-Intermediate-blue?style=flat-square)
+![Azure](https://img.shields.io/badge/Azure-Beginner%2FIntermediate-yellow?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-Beginner%2FIntermediate-yellow?style=flat-square)
 
 </div>
 
