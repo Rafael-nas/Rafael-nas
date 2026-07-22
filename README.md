@@ -145,9 +145,9 @@ Laboratórios e projetos focados em:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rafael-nas&show_icons=true&hide_border=true" />
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafael-nas&theme=github_dark" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-nas&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafael-nas&theme=github_dark" />
 
 </div>
 
